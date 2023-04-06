@@ -1,1 +1,1 @@
-# Anti-Psychotic-Prescribing-Dashboard
+# Anti-Psychotic Prescribing Dashboard
